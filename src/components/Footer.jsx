@@ -57,9 +57,9 @@ export default function Footer() {
     <FooterStyle>
       <div className="container">
         <div className="footer__col1">
-          <h1 className="footer__col1__title">Ayan Khan</h1>
+          <h1 className="footer__col1__title">Amit Gupta</h1>
           <PText>
-            A freelance web designer and developer from Chittagong, Bangladesh.
+            A full stack developer from Mumbai, Maharashtra.
             I always make websites that have unique designs and also has a good
             performance rate.
           </PText>
@@ -96,15 +96,15 @@ export default function Footer() {
             heading="Contact Info"
             links={[
               {
-                title: '+88012312',
-                path: 'tel:+88012312',
+                title: '+91-9967639740',
+                path: 'tel:+91 9967639740',
               },
               {
-                title: 'webcifar@gmail.com',
-                path: 'mailto:webcifar@gmail.com',
+                title: 'amitgt9967@gmail.com',
+                path: 'mailto:amitgt9967@gmail.com',
               },
               {
-                title: 'GEC Circle, Chittagong, Bangladesh',
+                title: 'Goregaon, Mumbai, Maharashtra',
                 path: 'http://google.com/maps',
               },
             ]}
@@ -133,9 +133,9 @@ export default function Footer() {
       <div className="copyright">
         <div className="container">
           <PText>
-            © 2021 - Ayan Khan | Designed By{' '}
-            <a target="_blank" rel="noreferrer" href="http://webcifar.com">
-              web cifar
+            © 2022 - Amit Gupta | Designed By{' '}
+            <a target="_blank" rel="noreferrer" href="https://amitharigupta.netlify.app/">
+              Amit Gupta
             </a>{' '}
           </PText>
         </div>
